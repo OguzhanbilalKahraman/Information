@@ -1,0 +1,8 @@
+C:\Users\oguzh\Desktop\yskAspNet\information\02.SenkronikAsenkronik\bin\Debug\02.SenkronikAsenkronik.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\02.SenkronikAsenkronik\bin\Debug\02.SenkronikAsenkronik.pdb
+C:\Users\oguzh\Desktop\yskAspNet\information\02.SenkronikAsenkronik\obj\Debug\02.SenkronikAsenkronik.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\yskAspNet\information\02.SenkronikAsenkronik\obj\Debug\_02.SenkronikAsenkronik.UserControl1.resources
+C:\Users\oguzh\Desktop\yskAspNet\information\02.SenkronikAsenkronik\obj\Debug\02.SenkronikAsenkronik.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\yskAspNet\information\02.SenkronikAsenkronik\obj\Debug\02.SenkronikAsenkronik.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\yskAspNet\information\02.SenkronikAsenkronik\obj\Debug\02.SenkronikAsenkronik.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\02.SenkronikAsenkronik\obj\Debug\02.SenkronikAsenkronik.pdb

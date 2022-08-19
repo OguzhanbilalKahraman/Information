@@ -1,0 +1,16 @@
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\bin\Debug\net5.0\01.Delege.exe
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\bin\Debug\net5.0\01.Delege.deps.json
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\bin\Debug\net5.0\01.Delege.runtimeconfig.json
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\bin\Debug\net5.0\01.Delege.runtimeconfig.dev.json
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\bin\Debug\net5.0\01.Delege.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\bin\Debug\net5.0\ref\01.Delege.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\bin\Debug\net5.0\01.Delege.pdb
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\obj\Debug\net5.0\01.Delege.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\obj\Debug\net5.0\01.Delege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\obj\Debug\net5.0\01.Delege.AssemblyInfoInputs.cache
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\obj\Debug\net5.0\01.Delege.AssemblyInfo.cs
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\obj\Debug\net5.0\01.Delege.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\obj\Debug\net5.0\01.Delege.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\obj\Debug\net5.0\ref\01.Delege.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\obj\Debug\net5.0\01.Delege.pdb
+C:\Users\oguzh\Desktop\yskAspNet\information\01.Delege\obj\Debug\net5.0\01.Delege.genruntimeconfig.cache

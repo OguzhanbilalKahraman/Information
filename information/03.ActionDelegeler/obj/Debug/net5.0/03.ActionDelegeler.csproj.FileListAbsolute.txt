@@ -1,0 +1,16 @@
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\bin\Debug\net5.0\03.ActionDelegeler.exe
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\bin\Debug\net5.0\03.ActionDelegeler.deps.json
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\bin\Debug\net5.0\03.ActionDelegeler.runtimeconfig.json
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\bin\Debug\net5.0\03.ActionDelegeler.runtimeconfig.dev.json
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\bin\Debug\net5.0\03.ActionDelegeler.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\bin\Debug\net5.0\ref\03.ActionDelegeler.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\bin\Debug\net5.0\03.ActionDelegeler.pdb
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\obj\Debug\net5.0\03.ActionDelegeler.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\obj\Debug\net5.0\03.ActionDelegeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\obj\Debug\net5.0\03.ActionDelegeler.AssemblyInfoInputs.cache
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\obj\Debug\net5.0\03.ActionDelegeler.AssemblyInfo.cs
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\obj\Debug\net5.0\03.ActionDelegeler.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\obj\Debug\net5.0\03.ActionDelegeler.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\obj\Debug\net5.0\ref\03.ActionDelegeler.dll
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\obj\Debug\net5.0\03.ActionDelegeler.pdb
+C:\Users\oguzh\Desktop\yskAspNet\information\03.ActionDelegeler\obj\Debug\net5.0\03.ActionDelegeler.genruntimeconfig.cache
